@@ -1,7 +1,5 @@
 # CMU SCS 15-799 (Spring 2025): Introduction to Query Optimization
 
----
-
 ## 1. Course Overview
 
 ### 1.1 Course Objectives
