@@ -1,12 +1,12 @@
 # CMU SCS 15-799 (Spring 2025): Join Ordering: Top-Down
 
-## 1. Introduction & Administrivia
+## 1. Introduction
 
 This lecture continues our discussion on **join order enumeration**, focusing specifically on **top-down** approaches. 
 
 ---
 
-## 2. Recap: DPHyp (Hypergraph Enumeration) [from Lecture 7]
+## 2. Recap from Lecture 7: DPHyp (Hypergraph Enumeration)
 
 - **DPHyp** enumerates connected subgraphs, incrementally adding hyperedges.  
 - Hyperedges allow considering multi-node join predicates as a single expansion.  
