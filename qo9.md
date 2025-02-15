@@ -53,7 +53,7 @@ This is analogous to the traditional **System R** DP approach, except it explici
 ## 5. MPDP (Massively Parallel DP)
 
 Reference:  
-“**Efficient Massively Parallel Join Optimization for Large Queries**,” SIGMOD 2022
+“Efficient Massively Parallel Join Optimization for Large Queries” (SIGMOD 2022)
 
 ### 5.1 Adaptive Approach
 - For **simple** queries: run a parallelized version of DPSub.  
@@ -82,7 +82,7 @@ Reference:
 ## 6. MPJ (Multiple Plan Join)
 
 Reference:  
-“**Parallelizing Query Optimization**,” VLDB 2008 (IBM Research)
+“Parallelizing Query Optimization” (VLDB 2008, IBM Research)
 
 ### 6.1 Main Idea
 - Store intermediate plans in a **memo table**, represented as a relation in the DBMS (self-joins on this relation enumerates new plans).  
