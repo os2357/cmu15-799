@@ -33,7 +33,7 @@ The challenge is splitting up these subproblems so multiple workers can progress
 ## 4. DPSub (Dynamic Programming Subset)
 
 Reference:  
-“**Efficient Massively Parallel Join Optimization for Large Queries**,” SIGMOD 2022
+“Efficient Massively Parallel Join Optimization for Large Queries” (SIGMOD 2022)
 
 ### 4.1 High-Level Idea
 - Enumerate **all subsets** of relations in order of increasing size.
