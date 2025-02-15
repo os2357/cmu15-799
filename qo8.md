@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): Join Ordering: Top-Down
+# CMU SCS 15-799 | Join Ordering: Top-Down
 
 ## 1. Introduction
 

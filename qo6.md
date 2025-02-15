@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): Transformations
+# CMU SCS 15-799 | Transformations
 
 ## 1. Introduction
 

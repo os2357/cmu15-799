@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): Cascades Optimizer
+# CMU SCS 15-799 | Cascades Optimizer
 
 ## Overview
 

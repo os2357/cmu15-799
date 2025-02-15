@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): IBM Starburst Query Rewriter & Optimizer
+# CMU SCS 15-799 | IBM Starburst Query Rewriter & Optimizer
 
 ## 1. Background & Motivation
 

@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): History of Query Optimizers and IBM System R
+# CMU SCS 15-799 | History of Query Optimizers and IBM System R
 
 ## 1. Background: Dawn of the Relational Model
 

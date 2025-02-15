@@ -1,4 +1,4 @@
-# CMU SCS 15-799 (Spring 2025): Optimizer Generators – Exodus and Volcano
+# CMU SCS 15-799 | Optimizer Generators: Exodus and Volcano
 
 ## 1. Context & Motivation
 
